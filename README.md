@@ -1,5 +1,5 @@
 # Movie List
-A simple web application for movie fanatic
+A simple web application for listing movies and adding to your favorite list
 
 ## Features
 - listing movies from movie api
@@ -8,8 +8,9 @@ A simple web application for movie fanatic
 - manage your favorite list
 
 ### Searching
-type the title of the movies in search bar
+type keywords for the title of the movies in search bar
+
 ### Favorite List
-In index page, press the `+` button on the movie to keep it into favorite list.
-You can checkout the favorite list in `favorite.html`
-press `x` to remove it from favorite list
+- To add movie in your favorite list, just press the `+` button under each movie in `index.html`
+- To list your favorite movie list, go to `favorite.html`
+- To remove movie from your favorite list, just press the `-` button under each movie in `index.html` or `favorite.html`
